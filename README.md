@@ -28,4 +28,4 @@ This markdown file has been made to demonstrate deployment with github pages and
 
 ![This is the octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
-You can view my GitHub repos [HERE]()
+You can view my GitHub repos [HERE](https://github.com/CSEAMAN3?tab=repositories)
