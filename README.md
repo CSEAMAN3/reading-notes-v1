@@ -17,3 +17,5 @@ Along with web develeopment my main passions include:
 - Football
 - Playing the guitar
 - Movies
+
+Outside of work I spend most of my free time with my partner Louise and step son Thomas. 
