@@ -9,5 +9,5 @@
 - Growth Mindset
 
 #### Introduction
-Hi my name is chris and I am a web developer and course director at tech educators.
+Hi my name is chris and I am a web developer and course director at tech educators.  
 Along with web develeopment my main passions include......
