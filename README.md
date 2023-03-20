@@ -24,5 +24,5 @@ Outside of work I spend most of my free time with my partner Louise and step son
 This markdown file has been made to demonstrate deployment with github pages and the basics of markdown.  
 
 #### Growth Mindset
-A growth mindset means that you thrive on challenge and don't see failure as a way to describe yourself but as a springboard for growth and developing yur abilities. Your intelligence and talents are all suseptible to growth.
+> A growth mindset means that you thrive on challenge and don't see failure as a way to describe yourself but as a springboard for growth and developing yur abilities. Your intelligence and talents are all suseptible to growth.
 
